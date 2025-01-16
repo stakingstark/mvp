@@ -1,7 +1,7 @@
 # 🪙 Staking Stark
 
 <h4 align="center">
-  <a href="https://stakingstark.com/">Website</a> |
+  <a href="https://stakingstark.com/">Website</a>
 </h4>
 
 🧪 A staking decentralized application (dapp) that is easily simplified on the Starknet blockchain. A service that allows users to easily stake Stark.
@@ -110,8 +110,6 @@ Visit your app on: `http://localhost:3000`.
 
 ## Quickstart with Sepolia Testnet
 
-<details>
-
 1. Make sure you alredy cloned this repo and installed dependencies.
 
 2. Prepare your environment variables.
@@ -141,6 +139,7 @@ yarn start
 ```
 
 Visit your app on: `http://localhost:3000`.
+
 
 
 ## **What's next**
